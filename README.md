@@ -1,7 +1,7 @@
 ### Hola 👋, Mi nombre es José Enrique Montero Jiménez
 ![](https://www.campusmvp.es/recursos/image.axd?picture=banner-asp-net-core-750x300.png)
 
-¡Hola! Soy un programador Senior con 6 años de experiencia en el desarrollo de software. A lo largo de mi carrera, he trabajado con una variedad de tecnologías y lenguajes de programación, incluyendo:
+¡Hola! Soy un programador con experiencia en el desarrollo de software. A lo largo de mi carrera, he trabajado con una variedad de tecnologías y lenguajes de programación, incluyendo:
 
 Habilidades: NET CORE / REACT / JS / HTML / CSS / C#/ MAUI / SQL / PostgreSQL / Informix / 4GL
 
